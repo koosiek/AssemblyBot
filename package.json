@@ -1,0 +1,25 @@
+{
+  "name": "assembly",
+  "description": "Discord Bot",
+  "main": "file.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Worek101/"
+  },
+  "author": "sl0wedzik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Worek101/"
+  },
+  "homepage": "https://github.com/Worek101/",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "pretty-ms": "^7.0.1"
+  },
+  "engines": {
+    "node": "v14.16.1"
+  }
+}
