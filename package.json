@@ -1,6 +1,6 @@
 {
   "name": "assembly",
-  "description": "Discord Bot",
+  "description": "My first Discord Bot",
   "main": "file.js",
   "scripts": {
     "start": "node ."
@@ -12,9 +12,9 @@
   "author": "sl0wedzik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Worek101/"
+    "url": "https://github.com/sl0wedzik/"
   },
-  "homepage": "https://github.com/Worek101/",
+  "homepage": "https://github.com/sl0wedzik/Assembly/",
   "dependencies": {
     "discord.js": "^12.5.3",
     "pretty-ms": "^7.0.1"
